@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ - I'm Shlok Kamat.
+ - A Freshman currently enrolled at [Shiv Nadar University] (https://snu.edu.in) in Electrical and Electronics Engineering .
+ - I' m currently working on CSD 101 project problems.
