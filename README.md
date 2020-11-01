@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
  - I'm Shlok Kamat.
- - A Freshman currently enrolled at [Shiv Nadar University] (https://snu.edu.in "Website") in Electrical and Electronics Engineering .
+ - A Freshman currently enrolled at [Shiv Nadar University](https://snu.edu.in "Website") in Electrical and Electronics Engineering .
  - I' m currently working on CSD 101 project problems.
