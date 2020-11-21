@@ -18,4 +18,4 @@ Here are some ideas to get you started:
  - I'm Shlok Kamat.
  - A Freshman currently enrolled at [Shiv Nadar University](https://snu.edu.in "Website") in Electrical and Electronics Engineering .
  - I' m currently working on [CSD 101](https://www.cgs.iitk.ac.in/user/hk/csd101/2020/labs/projectList.txt "Problems") project problems.
- - I'm looking to learn C/C++ for Arduino, MATLAB and Python.
+ - I'm looking for help with learning C/C++ for Arduino, MATLAB and Python.
