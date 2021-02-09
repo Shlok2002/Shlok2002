@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
  - I'm Shlok Kamat.
  - A Freshman currently enrolled at [Shiv Nadar University](https://snu.edu.in "Website") in Electrical and Electronics Engineering .
- - I'm looking for help with learning C/C++ for Arduino, MATLAB and Python.
+ - I'm currently undergoing a refresher course in Python.
+ - I aim to learn the basics of data science in this year, i.e. 2021.
