@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - I'm Shlok Kamat.
+ - I'm [Shlok Kamat](https://www.linkedin.com/in/shlok-kamat-b196bb1b9/).
  - A Freshman currently enrolled at [Shiv Nadar University](https://snu.edu.in "Website") in Electrical and Electronics Engineering .
  - I'm currently undergoing a refresher course in Python.
  - I aim to learn the basics of data science in this year, i.e. 2021.
