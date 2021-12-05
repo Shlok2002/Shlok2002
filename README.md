@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - I'm [Shlok Kamat](https://www.linkedin.com/in/shlok-kamat-b196bb1b9/).
- - A Freshman currently enrolled at [Shiv Nadar University](https://snu.edu.in "Website") in Electrical and Electronics Engineering .
- - I'm currently undergoing a refresher course in Python.
- - I aim to learn the basics of data analytics in this year, i.e. 2021.
+ - I'm [Shlok Kamat](https://www.linkedin.com/in/shlok-kamat-b196bb1b9/)
+ - A Sophomore currently enrolled at [Shiv Nadar University](https://snu.edu.in "Website") in Electrical and Electronics Engineering 
+ - I'm currently exploring the world of data science and its application in designing sustainable electrical projects
+ - I'm improving my R programming skills by performing Exploratory Data Analysis on public data sets via the [#tidytuesday](https://github.com/rfordatascience/tidytuesday) repository
