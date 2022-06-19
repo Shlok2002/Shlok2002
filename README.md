@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
  - I'm [Shlok Kamat](https://www.linkedin.com/in/shlok-kamat-b196bb1b9/)
- - A Sophomore currently enrolled at [Shiv Nadar University](https://snu.edu.in "Website") in Electrical and Electronics Engineering 
+ - A Junior currently enrolled at [Shiv Nadar University](https://snu.edu.in "Website") in Electrical and Electronics Engineering 
  - I'm currently exploring the world of data science and its application in designing sustainable electrical projects
  - I'm improving my R programming skills by performing Exploratory Data Analysis on public data sets via the [#tidytuesday](https://github.com/rfordatascience/tidytuesday) repository
