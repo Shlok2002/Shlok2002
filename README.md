@@ -16,11 +16,21 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Shlok Kamat</h1>
-<h3 align="center">A coding hobbysit</h3>
+<h3 align="center">An electrical engineering junior and coding hobbyist</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shlok2002" alt="shlok2002" /></a> </p>
 
 - 🌱 I’m currently learning **Python and R for data science**
 
+- 👨‍💻 All of my projects are available at [https://shlok2002.github.io/](https://shlok2002.github.io/)
+
+- 📝 I regularly write articles on [https://hashnode.com/@shlokkamat](https://hashnode.com/@shlokkamat)
+
 - 💬 Ask me about **sustainable energy and green finance**
+
+- 📫 How to reach me **ks649@snu.edu.in**
+
+- 📄 Know about my experiences [https://shlok-kamat.github.io/](https://shlok-kamat.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
