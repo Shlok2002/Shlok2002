@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 - 📝 I share my experiences on [https://shlokkamat.hashnode.dev/](https://shlokkamat.hashnode.dev/)
 
-- 📫 How to reach me **ks649@snu.edu.in**
+- 📫 You could reach me at **ks649@snu.edu.in**
 
-- 📄 Know about my experiences [https://shlok-kamat.github.io/](https://shlok-kamat.github.io/)
+- 📄 Know about my experiences at [https://shlok-kamat.github.io/](https://shlok-kamat.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
