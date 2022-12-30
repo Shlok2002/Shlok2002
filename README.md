@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Network X & Exponential family random graph models (ERGMs)**
 
-- 👨‍💻 All of my projects are available at [https://shlok2002.github.io/](https://shlok2002.github.io/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Shlok2002)
 
-- 📝 I share my experiences on [https://shlokkamat.hashnode.dev/](https://shlokkamat.hashnode.dev/)
+- 📝 I share my experiences on [Shlok's Jupyter](https://shlok2002.github.io/blog)
 
 - 📫 You could reach me at **ks649@snu.edu.in**
 
-- 📄 Know about my experiences at [https://shlok-kamat.github.io/](https://shlok-kamat.github.io/)
+- 📄 Know about my experiences at [Website](https://shlok2002.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
