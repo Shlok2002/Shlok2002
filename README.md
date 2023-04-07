@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Shlok2002)
 
-- 📝 I share my experiences on [Shlok's Jupyter](https://shlok2002.github.io/blog)
+- 📝 I share my experiences on [Shlok's Jupyter](https://shlok2002.github.io/Shlok-s-New-Jupyter/)
 
 - 📫 You could reach me at **ks649@snu.edu.in**
 
