@@ -1,25 +1,28 @@
-
 ### About Me 👋
 
-Hi there! I'm **Shlok Kamat**, currently pursuing an **M.S. in Business Analytics (MSBA)** at the **National University of Singapore (NUS)**. My academic journey is a unique blend of the expertise from **NUS Business School** and **NUS Computing**, empowering me to bridge the gap between cutting-edge analytics and real-world business challenges.
+Hi, I’m **Shlok Kamat** — a final-year **Master of Science in Business Analytics (MSBA)** candidate at the **National University of Singapore (NUS)**, where I specialize in **financial risk analytics**, **healthcare analytics**, and **consumer tech applications**.
 
-I am also a **part-time Data Analyst Intern at Arta Finance**, where I apply advanced data-driven insights to tackle complex challenges in the finance industry. This role allows me to contribute directly to Arta’s growth trajectory while deepening my understanding of the intersection between data and financial decision-making.
+As part of my MSBA capstone internship, I joined **EY’s Technology Consulting (AI & Data Team)** in Singapore, where I led **User Acceptance Testing (UAT)** for a **public sector GenAI platform** deployed on the **Singapore Government Commercial Cloud (GCC 2.0)**.
 
-### Professional Journey 🚀
+I was also a **finalist (Top 8 out of 200+ teams)** in the **NUS-GURU Network AI Innovation Challenge 2025**, and hold the **AFP® (Associate Financial Planner)** designation in Singapore.
 
-- **Analyst Intern @ Bain & Company**  
-  - Specialized in data and technology within the **Performance Improvement Practice**.  
-  - Worked on operations excellence benchmarking and procurement-related cost transformations, leveraging Bain's **Buy Better + Spend Better®** framework.
+Previously, I worked as a **Data Analyst at Arta Finance**, where I:
+- Automated **AUM tracking**, saving advisory teams 15+ hours weekly,
+- Built a **semantic data layer** to simplify analytics,
+- Co-developed a platform powering Arta’s **“Wealth as a Service”** AI suite.
 
-- **Credit Analytics Intern @ Paisabazaar.com**  
-  - Developed predictive models for credit card limits and disbursals, driving impactful financial solutions on India’s largest platform for financial products.
+Before graduate school, I was an **Analyst at Bain & Company** (New Delhi), working within the **Performance Improvement Practice**, and completed **product and analytics internships** at:
+- **Paisabazaar.com** – built predictive models for credit card limits and disbursals,
+- **TransOrg Analytics** – delivered data science solutions for business-critical problems,
+- **Spenny (now part of CRED)** – contributed to a **Y-Combinator-backed** micro-savings app.
 
-- **Analytics Intern @ TransOrg Analytics**  
-  - Delivered data science solutions for business-critical problems, exploring the intersection of analytics and strategic decision-making.
+I graduated **with distinction** in **Electrical and Electronics Engineering** from **Shiv Nadar University, India**, where I led national-level design competitions and developed a keen interest in finance.
 
-- **Part-time @ Spenny (acquired by CRED)**  
-  - Contributed to the development of a **Y-Combinator-backed micro-savings app**, gaining invaluable experience in FinTech.
+---
 
-### Let's Connect 🌟
+### Let’s Connect 🌟
 
-I’m always keen to collaborate on projects in **data analytics**, **finance**, and **technology**. You can reach me at **[shlok.kamat@comp.nus.edu.sg](mailto:shlok.kamat@comp.nus.edu.sg)**. For more details about my work, check out my [CV](https://shlok-kamat.github.io/assets/ShlokResume.pdf).
+📫 **Email**: [shlok.kamat@comp.nus.edu.sg](mailto:shlok.kamat@comp.nus.edu.sg)  
+📄 **CV**: [View Here](https://shlok-kamat.github.io/assets/ShlokResume.pdf)
+
+Feel free to reach out about my university experience, internships, or anything else I might be able to help with!
