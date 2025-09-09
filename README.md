@@ -6,7 +6,7 @@ As part of my MSBA capstone internship, I joined **EY’s Technology Consulting 
 
 I was also a **finalist (Top 8 out of 200+ teams)** in the **NUS-GURU Network AI Innovation Challenge 2025**, and hold the **AFP® (Associate Financial Planner)** designation in Singapore.
 
-Previously, I worked as a [**Data Analyst at Arta Finance**](https://artafinance.com/global), where I:
+Previously, I worked as a **Data Analyst at [Arta Finance**](https://artafinance.com/global), where I:
 - Automated **AUM tracking**, saving advisory teams 15+ hours weekly,
 - Built a **semantic data layer** to simplify analytics,
 - Co-developed a platform powering Arta’s **“Wealth as a Service”** AI suite.
